@@ -1,0 +1,10 @@
+	Obtain a Linux administrative position and TIBCO BPM Administrator whand network applications.
+Technical Proficiency and Expertise:
+Red Hat Linux 
+ AWS cloud environment with terraform
+TIBCO BPM
+Patching LVM volume management
+Shell scripting language
+Excellent communication, interpersonal and customer handling skills
+Ability to document procedures and processes accurately
+
